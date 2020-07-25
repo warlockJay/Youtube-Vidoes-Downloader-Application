@@ -1,4 +1,4 @@
-# Youtube-Vidoes-Downloader-Application
+# Youtube-Videos-Downloader-Application
 
 You can use this application to download Youtube Videos.
 
