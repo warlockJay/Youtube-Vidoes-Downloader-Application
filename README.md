@@ -14,5 +14,5 @@ Required Libraries:
 
 # THIS IS A BASE APPLICATION AND IM CURRENTLY WORKING ON NEW FEATURES.
 
-©copyright "FREE TO USE", ENJOY !!
+©Copyright "FREE TO USE", ENJOY !!
 
